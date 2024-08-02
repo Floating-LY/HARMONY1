@@ -1,7 +1,7 @@
 # HARMONY
 
 This repository provides an example code implementation for the paper titled "Adaptive Two-Stage Cloud Resource Scaling via
-Hierarchical Multi-Indicator Forecasting and Bayesian Decision-Makin". The paper introduces a novel system for efficient cloud resource scaling by addressing key challenges in cloud service resource allocation through hierarchical multi-indicator distribution forecasting and Bayesian decision-making.
+Hierarchical Multi-Indicator Forecasting and Bayesian Decision-Making". The paper introduces a novel system for efficient cloud resource scaling by addressing key challenges in cloud service resource allocation through hierarchical multi-indicator distribution forecasting and Bayesian decision-making.
 
 ## Dataset
 
